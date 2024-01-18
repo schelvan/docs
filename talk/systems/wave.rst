@@ -35,4 +35,4 @@ The side effects of this are:
 
 Why is the order of my order lines different than in my other systems?
 **********************************************************************
-The order that the order line appear in Wave is based on when each order line was created. The most recent updated order line will appear as the last order line in your Wave invoice draft. When creating a completely new order in a another system, all order lines will be given the same timestamp. This makes it impossible to determine what order the order lines orginaly were created, resulting in a arbitrary order of order lines in Wave.  
+The order that the order lines appear in Wave is based on when they were created or updated. The most recent updated order line will appear as the last one in your Wave invoice draft. When creating a completely new order in a another system, all order lines will be given the same timestamp. This makes it impossible to determine in what sequence the order lines originally were created, resulting in a arbitrary succession of your order lines in Wave.
